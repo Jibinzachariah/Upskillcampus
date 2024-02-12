@@ -84,6 +84,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-Special thanks to OpenAI for providing the GPT model used to generate this README template.
